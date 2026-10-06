@@ -116,6 +116,5 @@ Mémoire + intel + registre des décisions = une intelligence qui se cumule.
 | .claude/rules/ | Chargés à chaque session : voix, permissions, clients |
 
 **Archive Rule :** rien n'est supprimé. Tout est déplacé dans archive/.
-
 *Command centre built: 2026-10-06*
 *Status: T4 2026 — active*
